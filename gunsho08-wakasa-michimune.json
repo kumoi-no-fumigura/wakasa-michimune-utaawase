@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/wakasa-michimune-utaawase",
  "yomi": "わかさのかみみちむねあそんのにょしたちのうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（十番）",
+  "era": "応徳3年（1086）3月19日",
+  "author": "主催 藤原通宗の娘たち／判者 藤原通俊",
+  "desc": "若狭守藤原通宗の娘たちが七条の邸で催した十番の歌合。春駒・桜・子規・水鶏・萩・月・鴛・雪・恋・祝の題で詠み、通俊が判をした。"
+ },
  "editions": [
   {
    "pid": "1879502",
